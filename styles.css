@@ -1,0 +1,33 @@
+*{
+  font-family: "Montserrat"
+}
+body{
+  background:  #ff9a9e;
+}
+section{
+  max-width: 400px;
+  margin: 200px auto;
+  background: #fad0c4;
+  padding: 30px 10px;
+}
+button{
+  cursor: pointer;
+  background: none;
+  border: 1px solid #000;
+  padding: 5px;
+}
+div.team{
+  margin-top: 20px;
+}
+.team p{
+  font-weight: bold;
+}
+.team img{
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.learn {
+  display: flex;
+  align-items: center;
+}
